@@ -138,7 +138,7 @@ h2 {
 .tripForm button {
     padding: 10px;
     font-size: 16px;
-    background-color: #f9a857;
+    background-color: #8af6cd;
     color: white;
     border: none;
     border-radius: 4px;
@@ -146,5 +146,5 @@ h2 {
 }
 
 .tripForm button:hover {
-    background-color: #e08e38;
+    background-color: #8af6cd;
 }
