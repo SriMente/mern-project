@@ -21,7 +21,7 @@ function logTrip(tripName, tripLen, costPerDay){
 }
 
 /* Uncomment the line below to call the function. */
-logTrip("Thanksgiving in Japan", 1, 500);
+// logTrip("Thanksgiving in Japan", 1, 500);
 
 
 /*
@@ -43,7 +43,7 @@ tripObject.tripLen = 3;
 tripObject.costPerDay = 360;
 const days = tripObject.costPerDay
 
-console.log(tripObject);
+//console.log(tripObject);
 
 ///////////////////////////
 
@@ -174,4 +174,4 @@ async function fetchExchangeRate(currency1, currency2){
 }
 // Example calls:
 // fetchExchangeRate('USD', 'EUR');
-fetchExchangeRate('USD', 'GBP')  // This should trigger an error
+// fetchExchangeRate('USD', 'GBP')  // This should trigger an error
